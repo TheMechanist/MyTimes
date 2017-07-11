@@ -1,0 +1,16 @@
+html {
+  font-family: Verdana, sans-serif;
+}
+
+header {
+  display: flex;
+  height: 80px;
+  width: 100%;
+  font-size: 14px;
+  font-weight: bold;
+  align-items: center;
+  position:fixed;
+  z-index: 1;
+  border-bottom: 1px solid black;
+  background-color: white;
+}
